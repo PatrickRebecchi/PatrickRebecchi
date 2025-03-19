@@ -19,7 +19,7 @@ Busco colaborar em projetos **backend** com **Java** ou **C#** para ganhar exper
 ## 📫 Contato
 - **Email**: [patrickrebecchi@hotmail.com](mailto:patrickrebecchi@hotmail.com)
 - **GitHub**: [PatrickRebecchi](https://github.com/PatrickRebecchi)
-- **GitHub**: [PatrickRebecchi](https://www.linkedin.com/in/patrick-rebecchi-37825827b/)
+- **Linkedin**: [PatrickRebecchi](https://www.linkedin.com/in/patrick-rebecchi-37825827b/)
 
 ---
 
