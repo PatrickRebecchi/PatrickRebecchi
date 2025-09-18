@@ -1,15 +1,15 @@
 # 👋 Olá, eu sou Patrick Rebecchi
 
 ## 🚀 Sobre Mim
-Estudante de programação focado em desenvolvimento **Backend**. Atualmente aprendendo **C#**, **.NET** e **ASP.NET** para me tornar um desenvolvedor backend.
+Estudante de programação focado em desenvolvimento **Backend**. Atualmente aprendendo **JAVA E C#**, para me tornar um desenvolvedor backend.
 
 ## 🎯 Interesses
 - Desenvolvimento Backend com **Java** e **C#**.
 - Aprender novas tecnologias e práticas.
 
 ## 🌱 Estudando Atualmente
-- **C#** (do básico ao avançado).
-- **.NET** e **ASP.NET** para desenvolvimento web.
+- **JAVA E C#** (do básico ao avançado).
+- **SPRING BOOT E .NET** e **ASP.NET** para desenvolvimento web.
 - Criação e consumo de **APIs**.
 - Fundamentos de programação.
 
