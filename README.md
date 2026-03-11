@@ -30,14 +30,17 @@
 
 ## 🚀 Projetos
 
-🔹 API de Orçamento de Veículos  
+🔹  API de Orçamento de Veículos  
+API REST desenvolvida com Java e Spring Boot.
+
+Repositório:  
 https://github.com/PatrickRebecchi/Orcamento-api
 
 ---
 
 ## 🤝 Colaboração
 
-Busco colaborar em projetos **backend com Java ou C#** para ganhar experiência prática.
+Busco colaborar em projetos **backend com Java e Spring Boot**, contribuindo para desenvolvimento de APIs e aprimorando minhas habilidades em backend.
 
 ---
 
